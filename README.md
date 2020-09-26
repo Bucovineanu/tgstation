@@ -1,3 +1,7 @@
+## SYNDIE station codebase
+
+--------- former readme below -----------
+
 ## /tg/station codebase
 
 [![Build Status](https://travis-ci.org/tgstation/tgstation.png)](https://travis-ci.org/tgstation/tgstation) 
